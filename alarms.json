@@ -6,9 +6,9 @@
 			"api_key":""
 		},
 		{
-			"active": "False",
+			"active": "True",
 			"type":"slack",
-			"api_key":"",
+			"api_key":"xoxp-63849903207-63794935523-63870662997-268b386f59",
 			"channel":"#general"
 		},
 		{
